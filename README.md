@@ -1,0 +1,2 @@
+# Fund_Analyzer
+There is a login page in it is an already existing user he/she can simply login or a new user can register by providing basic details. Once the user lands to the dashboard he could see his expense through the yearly, monthly, past 7 days and what his today's expense. He can add an expense. He could see his report day wise, month wise and year wise. He could see his profile which he had put during registration and he could update it. The change the existing password.
